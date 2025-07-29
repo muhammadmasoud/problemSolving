@@ -9,7 +9,3 @@ def maxProfit(l):
                 p = l[i] - buy
     return p
 
-
-print(maxProfit([2,1,2,1,0,1,2]))
-
-
